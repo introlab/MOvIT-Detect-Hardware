@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Imu.PrjPcb]
+   Generated File[Imu.TXT]
+   Generated File[Imu.LDP]
+   Generated File[Imu.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 19:54:31 On 2019-04-28

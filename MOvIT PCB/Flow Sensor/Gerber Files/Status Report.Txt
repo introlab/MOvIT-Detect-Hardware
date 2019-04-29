@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [FlowSensor.PrjPCB]
+   Generated File[FlowSensor.TXT]
+   Generated File[FlowSensor.LDP]
+   Generated File[FlowSensor.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 19:51:09 On 2019-04-28

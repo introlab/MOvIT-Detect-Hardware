@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [RaspberryPi.PrjPcb]
+   Generated File[RaspberryPi.TXT]
+   Generated File[RaspberryPi.LDP]
+   Generated File[RaspberryPi.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 19:56:37 On 2019-04-28
